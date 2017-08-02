@@ -1,3 +1,1 @@
-abc
-- this is a new line that was added locally on the computer inside the 'cloned' branch
-- this is a 2nd line that was added locally on a newer 'commit'
+New Content inside File 1, written inside Branch4
