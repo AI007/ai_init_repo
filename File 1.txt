@@ -1,1 +1,2 @@
 abc
+- this is a new line that was added locally on the computer inside the 'cloned' branch
