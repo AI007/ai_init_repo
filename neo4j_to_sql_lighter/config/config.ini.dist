@@ -1,0 +1,15 @@
+[DATABASE]
+
+URL_NEO=staging-ai-neo4j.babylontech.co.uk:7473/db/data
+ENDPOINT_NEO=https://staging-ai-neo4j.babylontech.co.uk:7473/db/data
+USERNAME_NEO=CHANGEME
+PASSWORD_NEO=CHANGEME
+
+HOST_SQL=CHANGEME
+DB_SQL=CHANGEME
+USERNAME_SQL=CHANGEME
+PASSWORD_SQL=CHANGEME
+
+[BATCHING]
+binsize=1000
+startloop=0
